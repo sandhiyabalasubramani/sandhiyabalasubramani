@@ -2,25 +2,24 @@
 
 ### B.E. Electrical & Electronics Engineering Student | Python & C Programmer | AI & IoT Enthusiast
 
-> Passionate about building practical technology solutions, solving problems through code, and continuously growing as a technology professional.
+> Passionate about building practical technology solutions, solving problems through code, and continuously learning new technologies.
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **B.E. Electrical & Electronics Engineering student** interested in **software development, artificial intelligence, IoT, embedded systems, and UI/UX design**.
+I'm a **B.E. Electrical & Electronics Engineering student** with an interest in **software development, artificial intelligence, IoT, embedded systems, and UI/UX design**.
 
-I enjoy transforming ideas into practical projects and strengthening my technical skills through hands-on development, coding practice, and collaborative projects.
+I enjoy turning ideas into practical projects while strengthening my programming and problem-solving skills through hands-on development.
 
 * 🎓 B.E. Electrical & Electronics Engineering Student
-* 💻 Python & C Programmer
-* ☕ Practicing Java and problem solving
-* 🤖 Exploring Artificial Intelligence & IoT
-* 🔧 Interested in Embedded Systems
+* 💻 Python, C & Java Programmer
+* 🤖 Interested in Artificial Intelligence & IoT
+* 🔧 Exploring Embedded Systems
 * 🎨 Exploring UI/UX Design
-* 🚀 Building practical and real-world projects
-* 📚 Continuously learning new technologies
-* 🤝 Interested in collaborative development
+* 🧠 Practicing Data Structures & Problem Solving
+* 🚀 Building practical projects
+* 📚 Continuously learning and improving
 
 ---
 
@@ -28,45 +27,37 @@ I enjoy transforming ideas into practical projects and strengthening my technica
 
 ### 💻 Programming Languages
 
-* **Python**
-* **C**
-* **Java**
+`Python` `C` `Java`
 
 ### ⚙️ Tools & Technologies
 
-* **Git & GitHub**
-* **Visual Studio Code**
-* **Streamlit**
-* **Microsoft Office**
-* **IoT**
-* **Embedded Systems**
+`Git` `GitHub` `VS Code` `Streamlit` `Microsoft Office`
 
 ### 🔧 Areas of Interest
 
-* Artificial Intelligence
-* Internet of Things (IoT)
-* Embedded Systems
-* Software Development
-* Problem Solving
-* UI/UX Design
+`Artificial Intelligence` `IoT` `Embedded Systems` `Software Development` `Problem Solving` `UI/UX Design`
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🤖 AI Resume Analyzer
+
+An AI-powered application designed to analyze resumes and provide useful insights for improving resume quality and presentation.
+
+**Tech Stack:** Python • Streamlit • AI
+
+🔗 **Repository:** [AI Resume Analyzer](https://github.com/sandhiyabalasubramani/AI-Resume-Analyzer)
+
+---
+
 ### 🚗 AI-Based Driver Drowsiness Detection and Automatic Speed Control System with Alcohol Monitoring
 
 An IoT-based driver safety system designed to detect driver drowsiness, monitor alcohol levels, and automatically control vehicle speed.
 
-**Key Technologies:** NodeMCU ESP8266 • L298N Motor Driver • DC Geared Motor • HC-SR04 • MQ-3 • IR Eye Blink Sensor • 16×2 LCD • Embedded C • IoT
+**Hardware & Technologies:** NodeMCU ESP8266 • L298N Motor Driver • DC Geared Motor • HC-SR04 • MQ-3 • IR Eye Blink Sensor • 16×2 LCD • Embedded C • IoT
 
----
-
-### 📄 AI Resume Analyzer
-
-An AI-powered resume analysis application designed to analyze resumes and provide useful insights for improving resume quality, presentation, and overall effectiveness.
-
-**Key Technologies:** Python • Streamlit • AI
+🔗 **Repository:** [AI Driver Drowsiness & Speed Control](https://github.com/sandhiyabalasubramani/AI-Driver-Drowsiness-Speed-Control)
 
 ---
 
@@ -76,26 +67,53 @@ A collection of programming solutions developed through continuous coding practi
 
 **Primary Language:** Java
 
+🔗 **Repository:** [LeetCode Solutions](https://github.com/sandhiyabalasubramani/LEETCODE)
+
 ---
 
-### 🏢 Odoo Hackathon – HRMS
+### 🐍 Snake Game
 
-A team-based Human Resource Management System project developed during the Odoo Hackathon, focusing on authentication and employee management functionality.
+A simple programming project developed to practice programming fundamentals and game logic.
 
-**Key Technologies:** Node.js • JavaScript • Git • GitHub
+🔗 **Repository:** [Snake Game](https://github.com/sandhiyabalasubramani/Snake-Game)
 
 ---
 
 ## 📚 Currently Learning
 
 * Data Structures & Algorithms
-* Python Development
 * Java Programming
+* Python Development
 * Artificial Intelligence
 * IoT & Embedded Systems
 * Software Development
 * UI/UX Design
-* Git & GitHub Collaboration
+* Git & GitHub
+
+---
+
+## 📜 Certifications & Learning
+
+* 🐍 Python Programming & Developer Learning
+* ☁️ Cloud Computing using Microsoft Azure
+* 💡 Design Thinking
+* 💬 Basics of Business Communication
+* ☁️ Salesforce Trailhead Learning
+* 💻 Programming & Problem-Solving Practice
+* 🔧 IoT & Embedded Systems Project Development
+
+---
+
+## 💡 Strengths
+
+* Analytical Thinking
+* Critical Thinking
+* Problem Solving
+* Attention to Detail
+* Decision Making
+* Leadership
+* Communication
+* Continuous Learning
 
 ---
 
@@ -110,42 +128,17 @@ A team-based Human Resource Management System project developed during the Odoo 
 
 ---
 
-## 📜 Certifications & Learning
-
-* Python Programming & Developer Learning
-* Cloud Computing using Microsoft Azure
-* Design Thinking
-* Basics of Business Communication
-* Salesforce Trailhead Learning
-* Programming & Problem-Solving Practice
-* IoT & Embedded Systems Project Development
-
----
-
-## 💡 What I Bring
-
-* **Analytical Thinking**
-* **Critical Thinking**
-* **Problem Solving**
-* **Attention to Detail**
-* **Decision Making**
-* **Leadership**
-* **Communication**
-* **Continuous Learning**
-
----
-
 ## 📈 My GitHub Journey
 
-I use GitHub as a platform to:
+I use GitHub to:
 
-* 🚀 Build and document real-world projects
+* 🚀 Build and document projects
 * 💻 Practice programming and problem solving
 * 🧠 Strengthen technical skills
 * 📚 Explore emerging technologies
-* 🤝 Collaborate on development projects
+* 🤝 Learn collaborative development
 * 📌 Maintain a professional project portfolio
-* 🔄 Learn through continuous improvement
+* 🔄 Track continuous improvement
 
 ---
 
