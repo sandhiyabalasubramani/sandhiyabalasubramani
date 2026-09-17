@@ -8,9 +8,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a **B.E. Electrical & Electronics Engineering student** with an interest in **software development, artificial intelligence, IoT, embedded systems, and UI/UX design**.
+I'm a **B.E. Electrical & Electronics Engineering student** interested in **software development, artificial intelligence, IoT, embedded systems, and UI/UX design**.
 
-I enjoy turning ideas into practical projects while strengthening my programming and problem-solving skills through hands-on development.
+I enjoy transforming ideas into practical projects and strengthening my technical skills through hands-on development, coding practice, and continuous learning.
 
 * 🎓 B.E. Electrical & Electronics Engineering Student
 * 💻 Python, C & Java Programmer
@@ -18,8 +18,9 @@ I enjoy turning ideas into practical projects while strengthening my programming
 * 🔧 Exploring Embedded Systems
 * 🎨 Exploring UI/UX Design
 * 🧠 Practicing Data Structures & Problem Solving
-* 🚀 Building practical projects
-* 📚 Continuously learning and improving
+* 🚀 Building practical and real-world projects
+* 📚 Continuously learning new technologies
+* 🤝 Interested in collaborative development
 
 ---
 
@@ -27,15 +28,21 @@ I enjoy turning ideas into practical projects while strengthening my programming
 
 ### 💻 Programming Languages
 
-`Python` `C` `Java`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
 ### ⚙️ Tools & Technologies
 
-`Git` `GitHub` `VS Code` `Streamlit` `Microsoft Office`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge\&logo=microsoft-office\&logoColor=white)
 
 ### 🔧 Areas of Interest
 
-`Artificial Intelligence` `IoT` `Embedded Systems` `Software Development` `Problem Solving` `UI/UX Design`
+`Artificial Intelligence` • `IoT` • `Embedded Systems` • `Software Development` • `Problem Solving` • `UI/UX Design`
 
 ---
 
@@ -43,7 +50,7 @@ I enjoy turning ideas into practical projects while strengthening my programming
 
 ### 🤖 AI Resume Analyzer
 
-An AI-powered application designed to analyze resumes and provide useful insights for improving resume quality and presentation.
+An AI-powered application designed to analyze resumes and provide useful insights for improving resume quality, presentation, and overall effectiveness.
 
 **Tech Stack:** Python • Streamlit • AI
 
@@ -55,7 +62,9 @@ An AI-powered application designed to analyze resumes and provide useful insight
 
 An IoT-based driver safety system designed to detect driver drowsiness, monitor alcohol levels, and automatically control vehicle speed.
 
-**Hardware & Technologies:** NodeMCU ESP8266 • L298N Motor Driver • DC Geared Motor • HC-SR04 • MQ-3 • IR Eye Blink Sensor • 16×2 LCD • Embedded C • IoT
+**Hardware & Technologies:**
+
+`NodeMCU ESP8266` • `L298N Motor Driver` • `DC Geared Motor` • `HC-SR04` • `MQ-3` • `IR Eye Blink Sensor` • `16×2 LCD` • `Embedded C` • `IoT`
 
 🔗 **Repository:** [AI Driver Drowsiness & Speed Control](https://github.com/sandhiyabalasubramani/AI-Driver-Drowsiness-Speed-Control)
 
@@ -63,7 +72,7 @@ An IoT-based driver safety system designed to detect driver drowsiness, monitor 
 
 ### 💻 LeetCode Solutions
 
-A collection of programming solutions developed through continuous coding practice, focusing on problem solving, programming fundamentals, and algorithmic thinking.
+A collection of programming solutions developed through continuous coding practice, focusing on programming fundamentals, problem solving, and algorithmic thinking.
 
 **Primary Language:** Java
 
@@ -73,7 +82,7 @@ A collection of programming solutions developed through continuous coding practi
 
 ### 🐍 Snake Game
 
-A simple programming project developed to practice programming fundamentals and game logic.
+A programming project developed to practice programming fundamentals, logic building, and basic game development concepts.
 
 🔗 **Repository:** [Snake Game](https://github.com/sandhiyabalasubramani/Snake-Game)
 
@@ -81,14 +90,14 @@ A simple programming project developed to practice programming fundamentals and 
 
 ## 📚 Currently Learning
 
-* Data Structures & Algorithms
-* Java Programming
-* Python Development
-* Artificial Intelligence
-* IoT & Embedded Systems
-* Software Development
-* UI/UX Design
-* Git & GitHub
+* 🧠 Data Structures & Algorithms
+* ☕ Java Programming
+* 🐍 Python Development
+* 🤖 Artificial Intelligence
+* 🌐 IoT & Embedded Systems
+* 💻 Software Development
+* 🎨 UI/UX Design
+* 🔀 Git & GitHub Collaboration
 
 ---
 
@@ -106,14 +115,14 @@ A simple programming project developed to practice programming fundamentals and 
 
 ## 💡 Strengths
 
-* Analytical Thinking
-* Critical Thinking
-* Problem Solving
-* Attention to Detail
-* Decision Making
-* Leadership
-* Communication
-* Continuous Learning
+* 🧠 Analytical Thinking
+* 🔍 Critical Thinking
+* 💻 Problem Solving
+* 🎯 Attention to Detail
+* ⚡ Decision Making
+* 👥 Leadership
+* 💬 Communication
+* 📚 Continuous Learning
 
 ---
 
@@ -132,7 +141,7 @@ A simple programming project developed to practice programming fundamentals and 
 
 I use GitHub to:
 
-* 🚀 Build and document projects
+* 🚀 Build and document real-world projects
 * 💻 Practice programming and problem solving
 * 🧠 Strengthen technical skills
 * 📚 Explore emerging technologies
